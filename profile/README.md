@@ -1,4 +1,4 @@
-<img src="./assets/header-banner.svg" alt="Cryptonly" width="100%" />
+<img src="https://raw.githubusercontent.com/cryptonly-net/.github/main/profile/assets/header-banner.svg" alt="Cryptonly" width="100%" />
 
 <div align="center">
 
