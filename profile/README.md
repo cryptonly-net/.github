@@ -33,4 +33,4 @@
 
 - X: [@cryptonly_net](https://x.com/cryptonly_net)
 - LinkedIn: [company/cryptonly](https://www.linkedin.com/company/cryptonly)
-- Email: [connect@cryptonly.net](mailto:connect@cryptonly.net)
+- Support: [support@cryptonly.net](mailto:support@cryptonly.net)
