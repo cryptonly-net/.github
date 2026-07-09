@@ -4,13 +4,13 @@
 
 # Cryptonly - Crypto payments infrastructure
 
-[cryptonly.net](https://cryptonly.net) · [Documentation](https://cryptonly.net/docs) · [Contact](https://cryptonly.net/contact/)
+[Website](https://cryptonly.net?utm_source=github-org&utm_medium=header) · [Documentation](https://cryptonly.net/docs?utm_source=github-org&utm_medium=header) · [Contact](https://cryptonly.net/contact/?utm_source=github-org&utm_medium=header)
 
 </div>
 
 ---
 
-[Cryptonly](https://cryptonly.net) is a crypto payment gateway for online businesses. It helps merchants accept cryptocurrency payments, track transactions, manage balances, and automate settlements through a simple API, hosted checkout, and admin panel.
+[Cryptonly](https://cryptonly.net?utm_source=github-org&utm_medium=intro) is a crypto payment gateway for online businesses. It helps merchants accept cryptocurrency payments, track transactions, manage balances, and automate settlements through a simple API, hosted checkout, and admin panel.
 
 ## Features
 
@@ -24,10 +24,10 @@
 
 ## Get started
 
-- Explore the product at [cryptonly.net](https://cryptonly.net)
-- Read the integration guides at [cryptonly.net/docs](https://cryptonly.net/docs)
+- Explore the product at [cryptonly.net](https://cryptonly.net?utm_source=github-org&utm_medium=get-started)
+- Read the integration guides at [cryptonly.net/docs](https://cryptonly.net/docs?utm_source=github-org&utm_medium=get-started)
 - Install the SDK: `npm install @cryptonly/sdk`
-- Get in touch at [cryptonly.net/contact](https://cryptonly.net/contact/)
+- Get in touch at [cryptonly.net/contact](https://cryptonly.net/contact/?utm_source=github-org&utm_medium=get-started)
 
 ## Connect
 
