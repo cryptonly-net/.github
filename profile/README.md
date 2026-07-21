@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Cryptonly - Crypto payments infrastructure
+# Cryptonly - Crypto payments gateway
 
 [Website](https://cryptonly.net?utm_source=github-org&utm_medium=header) · [Documentation](https://cryptonly.net/docs?utm_source=github-org&utm_medium=header) · [Contact](https://cryptonly.net/contact/?utm_source=github-org&utm_medium=header)
 
@@ -10,15 +10,14 @@
 
 ---
 
-[Cryptonly](https://cryptonly.net?utm_source=github-org&utm_medium=intro) is a crypto payment gateway for online businesses. It helps merchants accept cryptocurrency payments, track transactions, manage balances, and automate settlements through a simple API, hosted checkout, and admin panel.
+[Cryptonly](https://cryptonly.net?utm_source=github-org&utm_medium=intro) is a crypto payment gateway for online businesses. We handle the settlements, conversions, and all the crypto complexity, so you can accept payments without the headaches.
 
 ## Features
 
-- Hosted checkout page for fiat invoices
-- Fiat invoice pricing with live crypto conversion at checkout
-- Static wallets for customers
-- Instant withdrawals
+- Invoices, static deposit addresses, and instant withdrawals
+- Developer-first API - idempotent, predictable, well-documented
 - Bitcoin, stablecoins and other supported cryptocurrencies
+- Ready-made plugins for popular CMS platforms - no code required
 - Sandbox mode for testing before production payments
 - 0.5% transaction fee, with no setup or monthly platform fee
 
